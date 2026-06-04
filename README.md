@@ -46,3 +46,23 @@ GET409-NiayesBiz/
     ├── fiche-equipe.md
     └── carte-empathie.md
 ```
+## Notre défi — HMW Définitif S2
+
+"Comment pourrions-nous aider les maraîchers des Niayes à recevoir
+chaque matin, avant 6h, un SMS de prix de référence fiable — légume,
+unité et marché précisés — issu de données vérifiables, pour qu'ils
+puissent négocier avec les Bana-Bana depuis une position informée
+et crédible ?"
+
+## Livrables S2
+
+| Fichier | Contenu |
+|---|---|
+| docs/chapeaux-bono.md | 6 Chapeaux de Bono |
+| docs/contraintes-mvp.md | Contraintes non négociables |
+| docs/hypotheses-validation.md | Hypothèses à tester en S3 |
+| docs/metriques-succes.md | Métriques de succès S6 |
+| docs/vpc.md | Value Proposition Canvas |
+| docs/vpc-connections.md | Traçabilité Chapeaux → VPC |
+| docs/backlog-s3.md | User stories S3 |
+| docs/hmw-definitif.md | HMW définitif validé |
